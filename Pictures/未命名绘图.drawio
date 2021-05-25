@@ -1,95 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T16:16:16.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="2oiONaufnd0rRDDN9DH3" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T00:38:39.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="sO74JxsApackdRjZDw7_" version="14.6.1" type="github">
   <diagram id="cvxg9Lm-vUqtapsxcO72" name="第 1 页">
-    <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-2" value="电话交换机B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-2" value="电话交换机B" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-3" value="电话交换机A" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-3" value="电话交换机A" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-4" value="电话交换机C" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-4" value="电话交换机C" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-20" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KngwLaqn_i5Z9b0yXkX_-2">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-20" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="KngwLaqn_i5Z9b0yXkX_-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="240" as="sourcePoint" />
             <mxPoint x="190" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-21" value="A的外线接B的内线:e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;fontStyle=0;" connectable="0" vertex="1" parent="KngwLaqn_i5Z9b0yXkX_-20">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-21" value="A的外线接B的内线:e" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rotation=0;fontStyle=0;" parent="KngwLaqn_i5Z9b0yXkX_-20" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-22" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="350" as="sourcePoint" />
             <mxPoint x="380" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-23" value="B的外线接A的内线:f" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KngwLaqn_i5Z9b0yXkX_-22">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-23" value="B的外线接A的内线:f" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="KngwLaqn_i5Z9b0yXkX_-22" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-10" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-27" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-27" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="245" as="sourcePoint" />
             <mxPoint x="564" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-28" value="A的外线接C的内线:j" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KngwLaqn_i5Z9b0yXkX_-27">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-28" value="A的外线接C的内线:j" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="KngwLaqn_i5Z9b0yXkX_-27" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="33" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-29" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-29" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="350" as="sourcePoint" />
             <mxPoint x="400" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-30" value="C的外线接A的内线:i" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KngwLaqn_i5Z9b0yXkX_-29">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-30" value="C的外线接A的内线:i" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="KngwLaqn_i5Z9b0yXkX_-29" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-20" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-33" value="" style="endArrow=classic;html=1;exitX=0.999;exitY=0.181;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KngwLaqn_i5Z9b0yXkX_-2">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-33" value="" style="endArrow=classic;html=1;exitX=0.999;exitY=0.181;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KngwLaqn_i5Z9b0yXkX_-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="360" as="sourcePoint" />
             <mxPoint x="450" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-34" value="B的外线接C的内线:g" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KngwLaqn_i5Z9b0yXkX_-33">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-34" value="B的外线接C的内线:g" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="KngwLaqn_i5Z9b0yXkX_-33" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-35" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KngwLaqn_i5Z9b0yXkX_-2">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-35" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KngwLaqn_i5Z9b0yXkX_-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="400" as="sourcePoint" />
             <mxPoint x="340" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-36" value="C的外线接B的内线:h" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KngwLaqn_i5Z9b0yXkX_-35">
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-36" value="C的外线接B的内线:h" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="KngwLaqn_i5Z9b0yXkX_-35" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-37" value="A的内线打B的内线：分机拨外线e的出局号，再拨B的分机号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="450" width="330" height="20" as="geometry" />
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-37" value="A的内线打B的内线：分机拨外线e的出局号，再拨B的分机号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="510" width="330" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-38" value="A的内线使用B的外线出局：分机拨外线e的出局号，再拨B的其他外线的出局号，然后再拨外线号码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="480" width="540" height="20" as="geometry" />
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-38" value="A的内线使用B的外线出局：分机拨外线e的出局号，再拨B的其他外线的出局号，然后再拨外线号码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="540" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-40" value="其他同理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="510" width="90" height="20" as="geometry" />
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-40" value="其他同理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="575" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KngwLaqn_i5Z9b0yXkX_-41" value="&amp;nbsp;修改A的外线e的出局号，与其他外线出局号不同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="430" width="270" height="20" as="geometry" />
+        <mxCell id="KngwLaqn_i5Z9b0yXkX_-41" value="&amp;nbsp;修改A的外线e的出局号，与其他外线出局号不同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="480" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
